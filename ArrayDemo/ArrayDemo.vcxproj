@@ -133,6 +133,10 @@
     <ClCompile Include="08_array_demo8.c" />
     <ClCompile Include="09_array_demo9.c" />
     <ClCompile Include="10_array_demo10.c" />
+    <ClCompile Include="11_array_demo11.c" />
+    <ClCompile Include="12_array_demo12.c" />
+    <ClCompile Include="13_array_demo13.c" />
+    <ClCompile Include="14_array_demo14.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
