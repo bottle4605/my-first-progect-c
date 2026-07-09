@@ -15,22 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_HelloWorld.c">
+    <ClCompile Include="01_temperature_1.2.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="02_temperature.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="03_pointer_demo3.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="04_pointer_demo4.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="05_pointer_demo5.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="06_pointer_demo6.c">
+    <ClCompile Include="02_temperature_1.2.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

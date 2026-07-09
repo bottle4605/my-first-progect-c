@@ -15,37 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_variable_demo.c">
+    <ClCompile Include="01_pointer_demo1.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="02_variable_demo2.c">
+    <ClCompile Include="02_pointer_demo2.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="03_variable_demo3.c">
+    <ClCompile Include="03_pointer_demo3.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="04_variable_demo4.c">
+    <ClCompile Include="04_pointer_demo4.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="05_variable_demo5.c">
+    <ClCompile Include="05_pointer_demo5.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="06_variable_demo6.c">
+    <ClCompile Include="06_pointer_demo6.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="07_scanf_demo1.c">
+    <ClCompile Include="07_pointer_demo7.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="08_scanf_demo2.c">
+    <ClCompile Include="08_pointer_demo8.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="09_scanf_demo3.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="10_scanf_demo4.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="11_scanf_demo5.c">
+    <ClCompile Include="09_pointer_demo9.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

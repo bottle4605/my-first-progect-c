@@ -14,9 +14,10 @@
 //	int b = 20;
 //
 //	//2.调用swap函数
-//	printf("调用前：%d,%d", a, b);
+//	printf("调用前：%d, %d", a, b);
+//	//swap(a, b);
 //	swap(&a, &b);
-//	printf("调用后：%d,%d", a, b);
+//	printf("调用后：%d, %d", a, b);
 //
 //	return 0;
 //}
