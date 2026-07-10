@@ -125,6 +125,11 @@
   <ItemGroup>
     <ClCompile Include="01_temperature_1.2.c" />
     <ClCompile Include="02_temperature_1.2.c" />
+    <ClCompile Include="03_exercise_1-3.c" />
+    <ClCompile Include="04_exercise_1-4.c" />
+    <ClCompile Include="05_temperature_1.3.c" />
+    <ClCompile Include="06_exercise_1-5.c" />
+    <ClCompile Include="07_temperature_1.4.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

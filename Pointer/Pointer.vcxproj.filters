@@ -42,5 +42,11 @@
     <ClCompile Include="09_pointer_demo9.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10_pointer_demo10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11_pointer_demo11.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
