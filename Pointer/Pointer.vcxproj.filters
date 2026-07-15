@@ -48,5 +48,26 @@
     <ClCompile Include="11_pointer_demo11.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="12_pointer_demo12.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_pointer_demo13.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_pointer_demo14.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_pointer_demo15.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_pointer_demo16.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_pointer_demo17.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_pointer_demo18.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

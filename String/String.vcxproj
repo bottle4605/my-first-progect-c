@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1cfc5e0e-8e8f-42a0-a41a-76a0ad977b9a}</ProjectGuid>
-    <RootNamespace>Pointer</RootNamespace>
+    <ProjectGuid>{afe7243e-abde-4074-b7b4-cebb8bed039d}</ProjectGuid>
+    <RootNamespace>String</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -100,7 +100,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -123,24 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_pointer_demo1.c" />
-    <ClCompile Include="02_pointer_demo2.c" />
-    <ClCompile Include="03_pointer_demo3.c" />
-    <ClCompile Include="04_pointer_demo4.c" />
-    <ClCompile Include="05_pointer_demo5.c" />
-    <ClCompile Include="06_pointer_demo6.c" />
-    <ClCompile Include="07_pointer_demo7.c" />
-    <ClCompile Include="08_pointer_demo8.c" />
-    <ClCompile Include="09_pointer_demo9.c" />
-    <ClCompile Include="10_pointer_demo10.c" />
-    <ClCompile Include="11_pointer_demo11.c" />
-    <ClCompile Include="12_pointer_demo12.c" />
-    <ClCompile Include="13_pointer_demo13.c" />
-    <ClCompile Include="14_pointer_demo14.c" />
-    <ClCompile Include="15_pointer_demo15.c" />
-    <ClCompile Include="16_pointer_demo16.c" />
-    <ClCompile Include="17_pointer_demo17.c" />
-    <ClCompile Include="18_pointer_demo18.c" />
+    <ClCompile Include="01_String_demo1.c" />
+    <ClCompile Include="02_String_demo2.c" />
+    <ClCompile Include="03_String_demo3.c" />
+    <ClCompile Include="04_String_demo4.c" />
+    <ClCompile Include="05_String_demo5.c" />
+    <ClCompile Include="06_String_demo5.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
