@@ -15,43 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_temperature_1.2.c">
+    <ClCompile Include="01_struct_demo1.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="02_temperature_1.2.c">
+    <ClCompile Include="02_struct_demo2.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="03_exercise_1-3.c">
+    <ClCompile Include="03_struct_demo3.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="04_exercise_1-4.c">
+    <ClCompile Include="04_struct_demo4.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="05_temperature_1.3.c">
+    <ClCompile Include="05_struct_demo5.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="06_exercise_1-5.c">
+    <ClCompile Include="06_struct_demo6.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="07_temperature_1.4.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="08_copy_1.5.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="09_copy_1.5.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="10_exercise_1-6.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="11_exercise_1-7.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="12_copy_1.5.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="13_copy_1.5.c">
+    <ClCompile Include="07_struct_demo7.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
