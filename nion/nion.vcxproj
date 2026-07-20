@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d1ccf537-c0ae-4fb1-aa72-be22cfafd346}</ProjectGuid>
-    <RootNamespace>My01TheCProgrammingLanguage</RootNamespace>
+    <ProjectGuid>{ed7e84d6-3769-49e5-b180-e852f38ad57c}</ProjectGuid>
+    <RootNamespace>nion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -100,7 +100,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -123,23 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_temperature_1.2.c" />
-    <ClCompile Include="02_temperature_1.2.c" />
-    <ClCompile Include="03_exercise_1-3.c" />
-    <ClCompile Include="04_exercise_1-4.c" />
-    <ClCompile Include="05_temperature_1.3.c" />
-    <ClCompile Include="06_exercise_1-5.c" />
-    <ClCompile Include="07_temperature_1.4.c" />
-    <ClCompile Include="08_copy_1.5.c" />
-    <ClCompile Include="09_copy_1.5.c" />
-    <ClCompile Include="10_exercise_1-6.c" />
-    <ClCompile Include="11_exercise_1-7.c" />
-    <ClCompile Include="12_copy_1.5.c" />
-    <ClCompile Include="13_copy_1.5.c" />
-    <ClCompile Include="14_Line_Count1.5.c" />
-    <ClCompile Include="15_exercise_1-8.c" />
-    <ClCompile Include="16_exercise_1-9.c" />
-    <ClCompile Include="17_exercise_1-10.c" />
+    <ClCompile Include="01_union_demo1.c" />
+    <ClCompile Include="02_union_demo2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -54,5 +54,17 @@
     <ClCompile Include="13_copy_1.5.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14_Line_Count1.5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_exercise_1-8.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_exercise_1-9.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_exercise_1-10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
