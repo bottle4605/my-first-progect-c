@@ -36,7 +36,7 @@
     <ClCompile Include="07_temperature_1.4.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="08_copy_1.5.c">
+    <ClCompile Include="08_File_Copy_1.5.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="09_copy_1.5.c">
@@ -48,13 +48,13 @@
     <ClCompile Include="11_exercise_1-7.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="12_copy_1.5.c">
+    <ClCompile Include="12_Character_Count_1.5.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="13_copy_1.5.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="14_Line_Count1.5.c">
+    <ClCompile Include="14_Line_Count_1.5.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="15_exercise_1-8.c">
@@ -64,6 +64,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="17_exercise_1-10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_Word_Count_1.5.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
