@@ -54,5 +54,65 @@
     <ClCompile Include="2.12-08.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="print1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bases.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="toobig.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="print2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="charcode.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="altname.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="showf_pt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="floaterr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="typesize.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="badcount.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="escape.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11-01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11-02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11-03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11-04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11-05.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11-06.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11-07.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11-08.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="talkback.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

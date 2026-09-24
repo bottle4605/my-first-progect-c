@@ -100,7 +100,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -133,9 +133,29 @@
     <ClCompile Include="2.12-07.c" />
     <ClCompile Include="2.12-08.c" />
     <ClCompile Include="2.1_first.c" />
+    <ClCompile Include="3.11-01.c" />
+    <ClCompile Include="3.11-02.c" />
+    <ClCompile Include="3.11-03.c" />
+    <ClCompile Include="3.11-04.c" />
+    <ClCompile Include="3.11-05.c" />
+    <ClCompile Include="3.11-06.c" />
+    <ClCompile Include="3.11-07.c" />
+    <ClCompile Include="3.11-08.c" />
     <ClCompile Include="3.1_platinum.c" />
+    <ClCompile Include="altname.c" />
+    <ClCompile Include="badcount.c" />
+    <ClCompile Include="bases.c" />
+    <ClCompile Include="charcode.c" />
+    <ClCompile Include="escape.c" />
     <ClCompile Include="fathm_ft.c" />
+    <ClCompile Include="floaterr.c" />
+    <ClCompile Include="print1.c" />
+    <ClCompile Include="print2.c" />
+    <ClCompile Include="showf_pt.c" />
+    <ClCompile Include="talkback.c" />
+    <ClCompile Include="toobig.c" />
     <ClCompile Include="two_func.c" />
+    <ClCompile Include="typesize.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
