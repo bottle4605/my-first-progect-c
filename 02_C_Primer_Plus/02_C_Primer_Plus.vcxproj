@@ -149,6 +149,7 @@
     <ClCompile Include="escape.c" />
     <ClCompile Include="fathm_ft.c" />
     <ClCompile Include="floaterr.c" />
+    <ClCompile Include="praisel.c" />
     <ClCompile Include="print1.c" />
     <ClCompile Include="print2.c" />
     <ClCompile Include="showf_pt.c" />
