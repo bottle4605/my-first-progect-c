@@ -146,17 +146,26 @@
     <ClCompile Include="badcount.c" />
     <ClCompile Include="bases.c" />
     <ClCompile Include="charcode.c" />
+    <ClCompile Include="defines.c" />
     <ClCompile Include="escape.c" />
     <ClCompile Include="fathm_ft.c" />
+    <ClCompile Include="flags.c" />
     <ClCompile Include="floaterr.c" />
-    <ClCompile Include="praisel.c" />
+    <ClCompile Include="floats.c" />
+    <ClCompile Include="intconv.c" />
+    <ClCompile Include="pizza.c" />
+    <ClCompile Include="praise1.c" />
+    <ClCompile Include="praise2.c" />
     <ClCompile Include="print1.c" />
     <ClCompile Include="print2.c" />
+    <ClCompile Include="printout.c" />
     <ClCompile Include="showf_pt.c" />
+    <ClCompile Include="stringf.c" />
     <ClCompile Include="talkback.c" />
     <ClCompile Include="toobig.c" />
     <ClCompile Include="two_func.c" />
     <ClCompile Include="typesize.c" />
+    <ClCompile Include="width.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

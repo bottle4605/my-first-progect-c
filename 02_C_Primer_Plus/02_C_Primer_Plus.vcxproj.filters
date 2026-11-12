@@ -114,7 +114,34 @@
     <ClCompile Include="talkback.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="praisel.c">
+    <ClCompile Include="praise1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="praise2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pizza.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="defines.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="printout.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="width.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="floats.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="flags.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringf.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="intconv.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
